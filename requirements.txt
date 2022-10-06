@@ -1,0 +1,9 @@
+colorama==0.4.5
+pystyle==2.0
+datetime==4.7
+hashlib
+requests
+ctypes
+math
+random
+os
