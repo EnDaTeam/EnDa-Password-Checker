@@ -7,3 +7,4 @@ ctypes
 math
 random
 os
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
